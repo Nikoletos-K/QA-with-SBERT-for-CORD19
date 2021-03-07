@@ -4,11 +4,24 @@
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
-
 # Q&A with SBERT NN to CORD-19
 
 Developed a document retrieval system to return titles of scientific papers containing the answer to a given user question.
 I used the first version of the [COVID-19 Open Research Dataset (CORD-19)](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/historical_releases/cord-19_2020-03-13.tar.gz) 
+
+###  Notebook viewer
+
+‼️ Because of memory restrictions, GitHub and Browsers can't open  always big jupyter notebooks. 
+For this reason I have every notebook linked with the jupyter nbviewer in the following table. 
+If you have any problems opening the books, follow the links.
+
+|Notebook | Link to jupyter nbviewer |
+|----|----|
+| SBERT_CORD19_Preprocess.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_Preprocess.ipynb) |
+| SBERT_CORD19_QA_CrossEncoders.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_CrossEncoders.ipynb) |
+| SBERT_CORD19_QA_Doc2Vec.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_Doc2Vec.ipynb) |
+| SBERT_CORD19_QA_InferSent.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_InferSent.ipynb) |
+| SBERT_CORD19_QA_Roberta.ipynb | [nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_Roberta.ipynb) |
 
 ## CORD-19
 Articles in the folder ```comm_use_subset```.
@@ -87,3 +100,4 @@ Finally, from my experiments the best model based on criteria:
 
 I conclude that Sentence Transformer in combination with Cross Encoders is the best model as it has the best results in answers. The time needed for creating the embeddings is approximately the same among the models. (all these remarks for the 6000 papers)
 
+---
