@@ -101,3 +101,5 @@ Finally, from my experiments the best model based on criteria:
 I conclude that Sentence Transformer in combination with Cross Encoders is the best model as it has the best results in answers. The time needed for creating the embeddings is approximately the same among the models. (all these remarks for the 6000 papers)
 
 ---
+
+© Konstantinos Nikoletos
