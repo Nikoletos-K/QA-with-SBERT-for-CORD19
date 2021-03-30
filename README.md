@@ -4,6 +4,8 @@
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+---
+
 # Q&A with SBERT NN to CORD-19
 
 Developed a document retrieval system to return titles of scientific papers containing the answer to a given user question.
