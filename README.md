@@ -17,13 +17,19 @@ I used the first version of the [COVID-19 Open Research Dataset (CORD-19)](https
 For this reason I have every notebook linked with the ✔️ __jupyter nbviewer__ ✔️ in the following table. 
 If you have any problems opening the notebooks, follow the links.
 
-|Notebook | Link to jupyter nbviewer |
-|:-:|:-:|
-| __SBERT_CORD19_Preprocess.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_Preprocess.ipynb) |
-| __SBERT_CORD19_QA_CrossEncoders.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_CrossEncoders.ipynb) |
-| __SBERT_CORD19_QA_Doc2Vec.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_Doc2Vec.ipynb) |
-| __SBERT_CORD19_QA_InferSent.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_InferSent.ipynb) |
-| __SBERT_CORD19_QA_Roberta.ipynb__ | [__nbviewer__](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_Roberta.ipynb) |
+|Notebook | Link to jupyter nbviewer | Link to Colab |
+|:-:|:-:| :-:| 
+| __SBERT_CORD19_Preprocess.ipynb__ | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_Preprocess.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZN6QlGAbdVWcl3RtrkvnqW6n8MAO9Ygl/view?usp=sharing)
+ |
+| __SBERT_CORD19_QA_CrossEncoders.ipynb__ | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_CrossEncoders.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1c64s-pgZzfTM7Fm8D_NIfaUZN-f1ZM7I/view?usp=sharing)
+ |
+| __SBERT_CORD19_QA_Doc2Vec.ipynb__ |  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_Doc2Vec.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ACAHfYlbfTPMBNuAPbTzCsqJ37FRQGWq/view?usp=sharing)
+ |
+| __SBERT_CORD19_QA_InferSent.ipynb__ | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_InferSent.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ECIDKDVMgwmb0F5fd7j7CtY7lb2iAL8H/view?usp=sharing)
+|
+| __SBERT_CORD19_QA_Roberta.ipynb__ | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Nikoletos-K/QA-with-SBERT-for-CORD19/blob/main/SBERT_CORD19_QA_Roberta.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1j0Lk5JHu9riH1WejT9JxtoBjV9OY8_Dl/view?usp=sharing)
+ |
+
 
 ## CORD-19
 Articles in the folder ```comm_use_subset```.
