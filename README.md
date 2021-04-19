@@ -105,4 +105,4 @@ I conclude that Sentence Transformer in combination with Cross Encoders is the b
 
 ---
 
-© Konstantinos Nikoletos
+© Konstantinos Nikoletos | 2020 - 2021
